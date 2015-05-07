@@ -1,0 +1,6 @@
+{
+  "name": "Bussit Kartalla",
+  "description": "Bussit kartalla -demo",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "lodash", "socket.io"]
+}
